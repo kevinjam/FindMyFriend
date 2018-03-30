@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FindFriend</string>
+    <string name="access_token">pk.eyJ1Ijoia2V2aW5qYW4iLCJhIjoiY2l5emxsdjh5MDRqdjMycDhwY3oyZWZwZyJ9.JLzUBcJAuTHgwMkWpPwWFQ</string>
 </resources>
